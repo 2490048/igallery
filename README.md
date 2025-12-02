@@ -1,5 +1,4 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
 
 ## AIM:
 To design a web application for an inteactive image gallery for a minimum five images with next and previous buttons.
